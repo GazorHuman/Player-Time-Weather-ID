@@ -1,4 +1,4 @@
-# Player Time & Weather with Indonesian Wiki
+# Player Time & Weather dengan Wiki Translation ke Bahasa Indonesia
 ### Klik disini untuk melihat [📚Wiki](https://github.com/GazorHuman/Player-Time-Weather-ID/wiki) 
 
 * Wiki Originally made by [JadedDragoon](https://github.com/JadedDragoon/Player-Time-Weather)
