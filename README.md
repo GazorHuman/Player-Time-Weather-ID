@@ -1,5 +1,5 @@
 # Player Time & Weather with Indonesian Wiki
-### Klik ini untuk melihat [📚Wiki](https://github.com/GazorHuman/Player-Time-Weather-ID/wiki) 
+### Klik disini untuk melihat [📚Wiki](https://github.com/GazorHuman/Player-Time-Weather-ID/wiki) 
 
 * Wiki Originally made by [JadedDragoon](https://github.com/JadedDragoon/Player-Time-Weather)
 * Plugin Information 
